@@ -1,1 +1,2 @@
-GROUPE_E_V2
+# Algo3DJava
+Projet de base pour les modules Algo 3D et programmation Java
